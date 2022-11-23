@@ -1,0 +1,1 @@
+ssh -i ./.ssh/private.pem azureuser@13.81.251.251
